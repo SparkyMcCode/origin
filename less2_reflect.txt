@@ -9,3 +9,7 @@ the stagging area is a holding place for files ready to be committed. its value 
 How can you use the staging area to make sure you have one commit per logical change?
 
 you can use git diff, and git diff --staged to review your changes before you commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+branches help separate the main vein of the history from the experiments and bull stuff.
