@@ -13,3 +13,7 @@ you can use git diff, and git diff --staged to review your changes before you co
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 branches help separate the main vein of the history from the experiments and bull stuff.
+
+How do the diagrams help you visualize the branch structure?
+
+they help illustrate the flow of info and logic of the code
