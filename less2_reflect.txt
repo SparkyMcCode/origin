@@ -17,3 +17,8 @@ branches help separate the main vein of the history from the experiments and bul
 How do the diagrams help you visualize the branch structure?
 
 they help illustrate the flow of info and logic of the code
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+ pro: saves time, and very accurate
+ con: doesn't correct incorrect code that doesn't create merge conflicts
