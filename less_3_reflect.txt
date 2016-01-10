@@ -14,3 +14,7 @@ You fork a repo when you want to share your version with other computers. Simila
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 works great for working off-line so you hae the last known state of the online version until you get back to the internet
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+i would probably use bitbucket but i don't know if it would be easier or not. I've never looked into it really.
