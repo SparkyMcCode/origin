@@ -18,3 +18,6 @@ works great for working off-line so you hae the last known state of the online v
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 i would probably use bitbucket but i don't know if it would be easier or not. I've never looked into it really.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+yo wanna make changes in a separate branch when you introducing a new feature or fix that may alter the behavior of the master  branch. The benifits to making changes in master directly is that its easier, requiring fewer steps to impliment the change. However it is safer to the code's integrity to make changes in a branch instead.
